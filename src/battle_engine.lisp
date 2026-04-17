@@ -1,6 +1,3 @@
-;;;; battle_engine.lisp
-;;;; Original Common Lisp RPG battle engine (full version)
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Weapons
 
